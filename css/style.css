@@ -34,6 +34,13 @@ html {
     height: 100%;
 }
 
+div.article {
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
 label,
 input,
 button,
