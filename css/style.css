@@ -895,6 +895,14 @@ form.lead label,form.lead input {
 	border: none;
 }
 
+.well.well-white {
+	background-color: #4ACCD1;
+	color: white;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+	border: none;
+}
+
 
 /* --- slider ---- */
 
